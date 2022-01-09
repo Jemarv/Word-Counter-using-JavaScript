@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.container, .container * {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 400px;
+    margin: 25px;
+    padding: 5px 25px 25px 25px;
+    border: 1px solid #000000;
+    border-radius: 2.5px;
+    line-height: 1.5;
+}
+
+.text-input {
+    min-width: 98.75%;
+    max-width: 98.75%;
+    min-height: 225px;
+    max-height: 225px;
+    margin-bottom: 25px;
+    border: 1px solid black;
+    border-radius: 2.5px;
+    resize: none;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.title {
+    margin-bottom: 25px;
+}
+
+
