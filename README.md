@@ -1,2 +1,2 @@
-# Word-Counter-using-JavaScript
+# js-word-counter
 Simple word counter project, practicing basic js/html/css
